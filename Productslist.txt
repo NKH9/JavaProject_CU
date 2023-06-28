@@ -1,0 +1,3 @@
+Sweater,45,CLOTHING
+cars_Guide,80,BOOKS
+Iphone,2500,ELECTRONICS
